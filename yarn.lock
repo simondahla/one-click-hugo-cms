@@ -4337,8 +4337,8 @@ js-tokens@^3.0.0, js-tokens@^3.0.2:
 
 js-video-url-parser@^0.2.7:
   version "0.2.8"
-  resolved "https://artifactory.spotify.net/artifactory/api/npm/virtual-npm/js-video-url-parser/-/js-video-url-parser-0.2.8.tgz#a78cd81ef0f7283d2a520015c7382d544ed5d8f0"
-  integrity sha1-p4zYHvD3KD0qUgAVxzgtVE7V2PA=
+  resolved "https://registry.yarnpkg.com/js-video-url-parser/-/js-video-url-parser-0.2.8.tgz#a78cd81ef0f7283d2a520015c7382d544ed5d8f0"
+  integrity sha512-/9KwB+7ESNsLOEsB33ol9OpbHHbP1fqhTulH6/ytEaP7rhURDcXrZBo9Gfd7YQtL7xqZWknTbLusYVOY4EAKZA==
 
 js-yaml@^3.11.0, js-yaml@^3.12.0, js-yaml@^3.12.2, js-yaml@^3.13.0, js-yaml@^3.9.0:
   version "3.13.0"
@@ -5360,8 +5360,8 @@ netlify-cms-widget-text@^2.2.2:
 
 netlify-cms-widget-youtube@^0.3.0:
   version "0.3.0"
-  resolved "https://artifactory.spotify.net/artifactory/api/npm/virtual-npm/netlify-cms-widget-youtube/-/netlify-cms-widget-youtube-0.3.0.tgz#01fc6e3d14fc40936761ac064cb022103bb3cbf8"
-  integrity sha1-AfxuPRT8QJNnYawGTLAiEDuzy/g=
+  resolved "https://registry.yarnpkg.com/netlify-cms-widget-youtube/-/netlify-cms-widget-youtube-0.3.0.tgz#01fc6e3d14fc40936761ac064cb022103bb3cbf8"
+  integrity sha512-Z96FNlR4H/akd6misLM0ZPa47XrnQmkqqibo3agLkZayoAKovL2nFiVKjofUipSj51YrD+jMna3p4aL0j/FE3g==
   dependencies:
     js-video-url-parser "^0.2.7"
     prop-types "^15.6.1"
