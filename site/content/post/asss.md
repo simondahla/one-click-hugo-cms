@@ -10,7 +10,6 @@ location: sss
 address: ss
 vicinity: ss
 type: ss
-url: ss
 website: sss
 ---
 
